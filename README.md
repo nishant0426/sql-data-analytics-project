@@ -1,8 +1,27 @@
-# sql-data-analytics-project
-
+📊 Advanced Data Analytics Project (SQL Server)
+📌 Overview
 ---
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+TThis project is built entirely in SQL Server, focusing on Advanced Analytics techniques to transform raw data into meaningful business insights.
+It includes Views, Subqueries, Window Functions, Aggregations, and Segmentation to perform deep analysis.
+---
+🔧 Tools & Technologies
+SQL Server (Main database & analytics engine)
+---
+🚀 Features Implemented
+✅ Created Views for reusable query logic and data modeling
+✅ Used Subqueries & CTEs for complex transformations
+✅ Applied Window Functions (LEAD(), LAG(), ROW_NUMBER(), RANK()) for time-based analysis and trends
+✅ Implemented Aggregations (SUM, AVG, COUNT) with GROUP BY for KPIs
+✅ Designed queries with WHERE, ORDER BY, and CASE for segmentation and conditional reporting
+✅ Built Cumulative Analysis, Change-Over-Time Trends, and Customer Segmentation
+---
+📈 Key Skills Demonstrated
+Advanced SQL Querying in SQL Server
 
+.Using Window Functions for analytics
+.Creating Views and reusable SQL models
+.Data Segmentation & Performance Metrics
+.Writing optimized queries for large datasets
 ---
 🌟 About Me
 ---
