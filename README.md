@@ -6,5 +6,5 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 ---
 🌟 About Me
 ---
-Hi there! I'm Nishant Kumar, a data enthusiast transitioning into the world of Data Analytics and Engineering. 
+Hi there! I'm Nishant Kumar, a data enthusiast transitioning into the world of Data Analytics. 
 I work with Python (Pandas), MySQL, and Power BI to turn raw data into actionable insights.
